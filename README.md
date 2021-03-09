@@ -1,2 +1,2 @@
-# bcnn4grace
-A Bayesian convolutional network for predicting GRACE TWSA time series
+# BCNN4GRACE
+A Bayesian convolutional neural network (BCNN) for prediction of GRACE-derived terrestrial water storage anomalies
